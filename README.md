@@ -1,5 +1,17 @@
 # 周公解梦 · The Duke of Zhou's Book of Dreams
 
+<p align="center">
+  <img src="assets/banner.svg" alt="周公解梦 · The Duke of Zhou's Book of Dreams" width="100%">
+</p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT"></a>
+  <img src="https://img.shields.io/badge/Claude-Skill-7c5cff.svg" alt="Claude Skill">
+  <img src="https://img.shields.io/badge/语言-中文%20%7C%20English-blue.svg" alt="Chinese | English">
+  <img src="https://img.shields.io/badge/source%20texts-public%20domain-lightgrey.svg" alt="Source texts: public domain">
+  <img src="https://img.shields.io/badge/entries-988-orange.svg" alt="988 entries">
+</p>
+
 **做了一个梦，想知道它是什么意思？** 告诉 Claude 你梦到了什么，它会像一位熟读古书的老先生那样，翻开两千多年传下来的解梦典籍，告诉你古人怎么看这个梦，再用今天的心理学帮你想想：这个梦可能在说你心里的什么事。
 
 **Had a dream and wondering what it means?** Tell Claude what you dreamed. Like an old scholar who knows the classics by heart, it opens China's traditional dream books, shows you how people have read that dream for centuries, and then uses modern psychology to help you think about what it might be saying about your life right now.
@@ -13,6 +25,8 @@
 Dream interpretation means "translating" a dream. Since ancient times, Chinese people have believed that dreams are not random. What appears in them, whether a snake, water, falling teeth or a relative who has passed away, works like a coded message. It may hint at good or bad luck, foretell what is coming, or reflect worries you carry during the day. Dream interpretation is the art of reading those messages.
 
 ## 一段很长的历史 ｜ A very long history
+
+<p align="center"><img src="assets/timeline.svg" alt="三千年的解梦史 · 3,000 years of dream reading" width="100%"></p>
 
 | 时代 Era | 发生了什么 What happened |
 |---|---|
@@ -48,6 +62,8 @@ Dream interpretation means "translating" a dream. Since ancient times, Chinese p
   **It's culture.** Most people don't treat it as literal prophecy but as a warm, fun tradition, much as many people in the West read horoscopes.
 
 ## 这个技能能帮你做什么？｜ What this skill does for you
+
+<p align="center"><img src="assets/how-it-works.svg" alt="怎么解一个梦 · How a dream is read" width="100%"></p>
 
 你只要描述梦，它会：
 Just describe your dream, and it will:
