@@ -193,6 +193,13 @@ Zip the `zhougong-jiemeng/` folder and upload it as a custom skill.
 - 历史、方法与故事部分参考了[百度百科「周公解梦」](https://baike.baidu.com/item/%E5%91%A8%E5%85%AC%E8%A7%A3%E6%A2%A6/1915904)词条及其所引文献（刘玉堂、薛源，《民俗研究》2022；杨自福、顾大勇，《敦煌学辑刊》1995 等），已用自己的话重新撰写。 · The history, methods and stories draw on the Baidu Baike entry on *Zhougong Jiemeng* and the scholarship it cites, rewritten in our own words.
 - 英译均为本项目所作。 · All English translations are by this project.
 
+## 作者 ｜ Authors
+
+- **Karo** ([@kkkkkkkaro-cyber](https://github.com/kkkkkkkaro-cyber))：项目发起与策划 · Creator and maintainer
+- **Claude** (Anthropic)：资料整理、翻译与编写协助 · Research, translation and writing assistance
+
+欢迎提交 Issue 或 Pull Request，一起完善译文和条目。 · Issues and pull requests to improve the translations and entries are welcome.
+
 ## 许可 ｜ License
 
 - 技能说明、英译与整理：MIT（见 `LICENSE`）。 · Skill instructions, translations and arrangement: MIT (see `LICENSE`).
