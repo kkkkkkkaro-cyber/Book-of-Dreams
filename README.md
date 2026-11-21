@@ -1,7 +1,7 @@
 # 周公解梦 · The Duke of Zhou's Book of Dreams
 
 <p align="center">
-  <img src="assets/banner.svg" alt="周公解梦 · The Duke of Zhou's Book of Dreams" width="100%">
+  <img src="assets/banner.png" alt="周公解梦 · The Duke of Zhou's Book of Dreams" width="100%">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-<p align="center"><img src="assets/demo.svg" alt="解梦示例 · Example reading" width="100%"></p>
+<p align="center"><img src="assets/demo.png" alt="解梦示例 · Example reading" width="100%"></p>
 
 ### 🚀 一分钟上手 ｜ Get started in one minute
 
@@ -34,6 +34,11 @@
 先看看大家最常问的梦，古书是怎么说的。想要完整解读，就把你的梦告诉 Claude。
 
 Here's what the classics say about the dreams people ask about most. For a full reading, tell Claude your dream.
+
+<p align="center"><img src="assets/common-dreams.png" alt="常见梦速查 · Common dreams at a glance" width="100%"></p>
+
+<details>
+<summary>📖 文字版（可复制）· Text version</summary>
 
 | 梦 Dream | 原文 Original | 怎么解 Reading |
 |---|---|---|
@@ -52,6 +57,8 @@ Here's what the classics say about the dreams people ask about most. For a full 
 | 💍 看见婚礼<br>A wedding | 「見嫁娶及孝主凶」 | 古书判凶，这是古代说法；现代更多反映关系或身份的变化。<br>*Judged unlucky in the old book; today it often reflects a change in a relationship or role.* |
 | 📝 考试 / 前任<br>Exams / an ex | 原书未收<br>Not in the book | 这是现代人的梦，古书没有。考试梦常对应“被评价”的焦虑；梦见前任多是一段还没放下的情绪。<br>*Modern dreams the classics don't cover. Exam dreams often mean fear of being judged; dreams of an ex, unfinished feelings.* |
 
+</details>
+
 > 原文出自通行本《周公解夢》，均可在 `zhougong-jiemeng/references/zhougong-jiemeng-original.md` 中查到。 · All quotes appear in the full text in `references/`.
 
 ## 解梦是什么？｜ What is dream interpretation?
@@ -62,7 +69,7 @@ Dream interpretation means "translating" a dream. Since ancient times, Chinese p
 
 ## 一段很长的历史 ｜ A very long history
 
-<p align="center"><img src="assets/timeline.svg" alt="三千年的解梦史 · 3,000 years of dream reading" width="100%"></p>
+<p align="center"><img src="assets/timeline.png" alt="三千年的解梦史 · 3,000 years of dream reading" width="100%"></p>
 
 | 时代 Era | 发生了什么 What happened |
 |---|---|
@@ -148,7 +155,7 @@ That is how this skill works: **it tells you exactly what the classics say, help
 
 ## 这个技能能帮你做什么？｜ What this skill does for you
 
-<p align="center"><img src="assets/how-it-works.svg" alt="怎么解一个梦 · How a dream is read" width="100%"></p>
+<p align="center"><img src="assets/how-it-works.png" alt="怎么解一个梦 · How a dream is read" width="100%"></p>
 
 你只要描述梦，它会：
 Just describe your dream, and it will:

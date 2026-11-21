@@ -1,59 +1,59 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 345" width="1200" height="345">
-<rect width="1200" height="345" rx="18" fill="#faf6ee"/>
-<text x="600.0" y="50" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="30" font-weight="700" fill="#3b2f63">三千年的解梦史 · 3,000 Years of Dream Reading</text>
-<line x1="40" y1="200" x2="1160" y2="200" stroke="#b9a7e0" stroke-width="4" stroke-linecap="round"/>
-<circle cx="80.0" cy="200" r="13" fill="#3b2f63"/><circle cx="80.0" cy="200" r="5" fill="#fbe7a6"/>
-<line x1="80.0" y1="174" x2="80.0" y2="186" stroke="#b9a7e0" stroke-width="2"/>
-<text x="80.0" y="88" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="22" font-weight="700" fill="#3b2f63">商</text>
-<text x="80.0" y="114" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-style="italic" fill="#6b5a99">Shang</text>
-<text x="80.0" y="142" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#2b2540">甲骨占梦</text>
-<text x="80.0" y="164" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="12.5" fill="#6d6680">Oracle bones</text>
-<circle cx="210.0" cy="200" r="13" fill="#3b2f63"/><circle cx="210.0" cy="200" r="5" fill="#fbe7a6"/>
-<line x1="210.0" y1="214" x2="210.0" y2="226" stroke="#b9a7e0" stroke-width="2"/>
-<text x="210.0" y="246" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="22" font-weight="700" fill="#3b2f63">西周</text>
-<text x="210.0" y="270" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-style="italic" fill="#6b5a99">W. Zhou</text>
-<text x="210.0" y="298" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#2b2540">设占梦官·六梦</text>
-<text x="210.0" y="320" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="12.5" fill="#6d6680">Court diviners</text>
-<circle cx="340.0" cy="200" r="13" fill="#3b2f63"/><circle cx="340.0" cy="200" r="5" fill="#fbe7a6"/>
-<line x1="340.0" y1="174" x2="340.0" y2="186" stroke="#b9a7e0" stroke-width="2"/>
-<text x="340.0" y="88" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="22" font-weight="700" fill="#3b2f63">春秋</text>
-<text x="340.0" y="114" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-style="italic" fill="#6b5a99">Spring &amp; Autumn</text>
-<text x="340.0" y="142" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#2b2540">孔子梦周公</text>
-<text x="340.0" y="164" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="12.5" fill="#6d6680">Confucius</text>
-<circle cx="470.0" cy="200" r="13" fill="#3b2f63"/><circle cx="470.0" cy="200" r="5" fill="#fbe7a6"/>
-<line x1="470.0" y1="214" x2="470.0" y2="226" stroke="#b9a7e0" stroke-width="2"/>
-<text x="470.0" y="246" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="22" font-weight="700" fill="#3b2f63">秦</text>
-<text x="470.0" y="270" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-style="italic" fill="#6b5a99">Qin</text>
-<text x="470.0" y="298" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#2b2540">秦简《占梦书》</text>
-<text x="470.0" y="320" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="12.5" fill="#6d6680">First dream book</text>
-<circle cx="600.0" cy="200" r="13" fill="#3b2f63"/><circle cx="600.0" cy="200" r="5" fill="#fbe7a6"/>
-<line x1="600.0" y1="174" x2="600.0" y2="186" stroke="#b9a7e0" stroke-width="2"/>
-<text x="600.0" y="88" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="22" font-weight="700" fill="#3b2f63">汉</text>
-<text x="600.0" y="114" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-style="italic" fill="#6b5a99">Han</text>
-<text x="600.0" y="142" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#2b2540">王符“十梦”</text>
-<text x="600.0" y="164" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="12.5" fill="#6d6680">Wang Fu's ten kinds</text>
-<circle cx="730.0" cy="200" r="13" fill="#3b2f63"/><circle cx="730.0" cy="200" r="5" fill="#fbe7a6"/>
-<line x1="730.0" y1="214" x2="730.0" y2="226" stroke="#b9a7e0" stroke-width="2"/>
-<text x="730.0" y="246" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="22" font-weight="700" fill="#3b2f63">隋</text>
-<text x="730.0" y="270" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-style="italic" fill="#6b5a99">Sui</text>
-<text x="730.0" y="298" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#2b2540">首见“解梦”书名</text>
-<text x="730.0" y="320" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="12.5" fill="#6d6680">First 'jiemeng' title</text>
-<circle cx="860.0" cy="200" r="13" fill="#3b2f63"/><circle cx="860.0" cy="200" r="5" fill="#fbe7a6"/>
-<line x1="860.0" y1="174" x2="860.0" y2="186" stroke="#b9a7e0" stroke-width="2"/>
-<text x="860.0" y="88" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="22" font-weight="700" fill="#3b2f63">唐·五代</text>
-<text x="860.0" y="114" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-style="italic" fill="#6b5a99">Tang</text>
-<text x="860.0" y="142" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#2b2540">敦煌写本</text>
-<text x="860.0" y="164" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="12.5" fill="#6d6680">Dunhuang manuscripts</text>
-<circle cx="990.0" cy="200" r="13" fill="#3b2f63"/><circle cx="990.0" cy="200" r="5" fill="#fbe7a6"/>
-<line x1="990.0" y1="214" x2="990.0" y2="226" stroke="#b9a7e0" stroke-width="2"/>
-<text x="990.0" y="246" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="22" font-weight="700" fill="#3b2f63">宋</text>
-<text x="990.0" y="270" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-style="italic" fill="#6b5a99">Song</text>
-<text x="990.0" y="298" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#2b2540">首录《周公解梦书》</text>
-<text x="990.0" y="320" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="12.5" fill="#6d6680">First recorded</text>
-<circle cx="1120.0" cy="200" r="13" fill="#3b2f63"/><circle cx="1120.0" cy="200" r="5" fill="#fbe7a6"/>
-<line x1="1120.0" y1="174" x2="1120.0" y2="186" stroke="#b9a7e0" stroke-width="2"/>
-<text x="1120.0" y="88" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="22" font-weight="700" fill="#3b2f63">明清至今</text>
-<text x="1120.0" y="114" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-style="italic" fill="#6b5a99">Ming–Qing →</text>
-<text x="1120.0" y="142" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#2b2540">通行本 988 条</text>
-<text x="1120.0" y="164" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="12.5" fill="#6d6680">Popular edition</text>
+<rect width="1200" height="345" rx="18" fill="#f3e8cf"/>
+<text x="600.0" y="50" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="30" font-weight="700" fill="#262220">三千年的解梦史 · 3,000 Years of Dream Reading</text>
+<line x1="40" y1="200" x2="1160" y2="200" stroke="#b3352b" stroke-width="4" stroke-linecap="round"/>
+<circle cx="80.0" cy="200" r="13" fill="#262220"/><circle cx="80.0" cy="200" r="5" fill="#f3e8cf"/>
+<line x1="80.0" y1="174" x2="80.0" y2="186" stroke="#b3352b" stroke-width="2"/>
+<text x="80.0" y="88" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="22" font-weight="700" fill="#262220">商</text>
+<text x="80.0" y="114" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-style="italic" fill="#7a6650">Shang</text>
+<text x="80.0" y="142" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#3d3327">甲骨占梦</text>
+<text x="80.0" y="164" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="12.5" fill="#7a6650">Oracle bones</text>
+<circle cx="210.0" cy="200" r="13" fill="#262220"/><circle cx="210.0" cy="200" r="5" fill="#f3e8cf"/>
+<line x1="210.0" y1="214" x2="210.0" y2="226" stroke="#b3352b" stroke-width="2"/>
+<text x="210.0" y="246" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="22" font-weight="700" fill="#262220">西周</text>
+<text x="210.0" y="270" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-style="italic" fill="#7a6650">W. Zhou</text>
+<text x="210.0" y="298" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#3d3327">设占梦官·六梦</text>
+<text x="210.0" y="320" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="12.5" fill="#7a6650">Court diviners</text>
+<circle cx="340.0" cy="200" r="13" fill="#262220"/><circle cx="340.0" cy="200" r="5" fill="#f3e8cf"/>
+<line x1="340.0" y1="174" x2="340.0" y2="186" stroke="#b3352b" stroke-width="2"/>
+<text x="340.0" y="88" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="22" font-weight="700" fill="#262220">春秋</text>
+<text x="340.0" y="114" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-style="italic" fill="#7a6650">Spring &amp; Autumn</text>
+<text x="340.0" y="142" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#3d3327">孔子梦周公</text>
+<text x="340.0" y="164" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="12.5" fill="#7a6650">Confucius</text>
+<circle cx="470.0" cy="200" r="13" fill="#262220"/><circle cx="470.0" cy="200" r="5" fill="#f3e8cf"/>
+<line x1="470.0" y1="214" x2="470.0" y2="226" stroke="#b3352b" stroke-width="2"/>
+<text x="470.0" y="246" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="22" font-weight="700" fill="#262220">秦</text>
+<text x="470.0" y="270" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-style="italic" fill="#7a6650">Qin</text>
+<text x="470.0" y="298" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#3d3327">秦简《占梦书》</text>
+<text x="470.0" y="320" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="12.5" fill="#7a6650">First dream book</text>
+<circle cx="600.0" cy="200" r="13" fill="#262220"/><circle cx="600.0" cy="200" r="5" fill="#f3e8cf"/>
+<line x1="600.0" y1="174" x2="600.0" y2="186" stroke="#b3352b" stroke-width="2"/>
+<text x="600.0" y="88" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="22" font-weight="700" fill="#262220">汉</text>
+<text x="600.0" y="114" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-style="italic" fill="#7a6650">Han</text>
+<text x="600.0" y="142" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#3d3327">王符“十梦”</text>
+<text x="600.0" y="164" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="12.5" fill="#7a6650">Wang Fu's ten kinds</text>
+<circle cx="730.0" cy="200" r="13" fill="#262220"/><circle cx="730.0" cy="200" r="5" fill="#f3e8cf"/>
+<line x1="730.0" y1="214" x2="730.0" y2="226" stroke="#b3352b" stroke-width="2"/>
+<text x="730.0" y="246" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="22" font-weight="700" fill="#262220">隋</text>
+<text x="730.0" y="270" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-style="italic" fill="#7a6650">Sui</text>
+<text x="730.0" y="298" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#3d3327">首见“解梦”书名</text>
+<text x="730.0" y="320" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="12.5" fill="#7a6650">First 'jiemeng' title</text>
+<circle cx="860.0" cy="200" r="13" fill="#262220"/><circle cx="860.0" cy="200" r="5" fill="#f3e8cf"/>
+<line x1="860.0" y1="174" x2="860.0" y2="186" stroke="#b3352b" stroke-width="2"/>
+<text x="860.0" y="88" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="22" font-weight="700" fill="#262220">唐·五代</text>
+<text x="860.0" y="114" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-style="italic" fill="#7a6650">Tang</text>
+<text x="860.0" y="142" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#3d3327">敦煌写本</text>
+<text x="860.0" y="164" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="12.5" fill="#7a6650">Dunhuang manuscripts</text>
+<circle cx="990.0" cy="200" r="13" fill="#262220"/><circle cx="990.0" cy="200" r="5" fill="#f3e8cf"/>
+<line x1="990.0" y1="214" x2="990.0" y2="226" stroke="#b3352b" stroke-width="2"/>
+<text x="990.0" y="246" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="22" font-weight="700" fill="#262220">宋</text>
+<text x="990.0" y="270" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-style="italic" fill="#7a6650">Song</text>
+<text x="990.0" y="298" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#3d3327">首录《周公解梦书》</text>
+<text x="990.0" y="320" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="12.5" fill="#7a6650">First recorded</text>
+<circle cx="1120.0" cy="200" r="13" fill="#262220"/><circle cx="1120.0" cy="200" r="5" fill="#f3e8cf"/>
+<line x1="1120.0" y1="174" x2="1120.0" y2="186" stroke="#b3352b" stroke-width="2"/>
+<text x="1120.0" y="88" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="22" font-weight="700" fill="#262220">明清至今</text>
+<text x="1120.0" y="114" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-style="italic" fill="#7a6650">Ming–Qing →</text>
+<text x="1120.0" y="142" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#3d3327">通行本 988 条</text>
+<text x="1120.0" y="164" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="12.5" fill="#7a6650">Popular edition</text>
 </svg>

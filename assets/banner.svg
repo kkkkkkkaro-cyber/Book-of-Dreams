@@ -1,39 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420">
-  <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#0f1733"/>
-      <stop offset="0.6" stop-color="#26285a"/>
-      <stop offset="1" stop-color="#3b2f63"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#fff6d8" stop-opacity="0.55"/>
-      <stop offset="1" stop-color="#fff6d8" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <rect width="1200" height="420" fill="url(#sky)"/>
-  <g fill="#fff">
-    <circle cx="90" cy="60" r="1.6" opacity=".8"/><circle cx="210" cy="120" r="1.2" opacity=".6"/>
-    <circle cx="330" cy="40" r="1.8" opacity=".9"/><circle cx="470" cy="95" r="1.1" opacity=".6"/>
-    <circle cx="620" cy="30" r="1.5" opacity=".8"/><circle cx="760" cy="70" r="1.2" opacity=".7"/>
-    <circle cx="1120" cy="50" r="1.6" opacity=".8"/><circle cx="1060" cy="150" r="1.1" opacity=".5"/>
-    <circle cx="150" cy="200" r="1.3" opacity=".6"/><circle cx="560" cy="160" r="1.0" opacity=".5"/>
-    <circle cx="700" cy="140" r="1.4" opacity=".7"/><circle cx="40" cy="300" r="1.1" opacity=".5"/>
-  </g>
-  <circle cx="960" cy="140" r="150" fill="url(#glow)"/>
-  <path d="M960 70 a70 70 0 1 0 50 120 a56 56 0 1 1 -50 -120 z" fill="#fbe7a6"/>
-  <g fill="none" stroke="#c9b6ff" stroke-width="3" stroke-linecap="round" opacity=".55">
-    <path d="M60 360 q30 -30 60 0 q30 -30 60 0 q20 -20 40 0"/>
-    <path d="M820 330 q30 -30 60 0 q30 -30 60 0 q30 -30 60 0 q20 -20 40 0"/>
-    <path d="M880 370 q25 -25 50 0 q25 -25 50 0"/>
-  </g>
-  <g transform="translate(1035 250) rotate(-12)" fill="#f2c4e6" opacity=".9">
-    <path d="M0 0 C-30 -38 -58 -10 -36 14 C-24 26 -8 16 0 0 Z"/>
-    <path d="M0 0 C30 -38 58 -10 36 14 C24 26 8 16 0 0 Z"/>
-    <path d="M0 2 C-18 24 -34 34 -22 42 C-10 46 -2 28 0 2 Z" opacity=".8"/>
-    <path d="M0 2 C18 24 34 34 22 42 C10 46 2 28 0 2 Z" opacity=".8"/>
-    <rect x="-1.6" y="-14" width="3.2" height="34" rx="1.6" fill="#6b4a7a"/>
-  </g>
-  <text x="80" y="190" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="96" font-weight="700" fill="#fdf3d6" letter-spacing="10">周公解梦</text>
-  <text x="84" y="250" font-family="Georgia,'Times New Roman',serif" font-size="38" font-style="italic" fill="#e9defc">The Duke of Zhou's Book of Dreams</text>
-  <text x="84" y="305" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="22" fill="#c9bfe6">按原典解梦的 Claude 技能 · A Claude skill that reads dreams from the classics</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440">
+<defs>
+<linearGradient id="paper" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6eedb"/><stop offset="1" stop-color="#ead9b6"/></linearGradient>
+<filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="4"/><feColorMatrix type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.35  0 0 0 0 0.2  0 0 0 0.09 0"/></filter>
+<filter id="ink" x="-20%" y="-20%" width="140%" height="140%"><feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="3" seed="9" result="t"/><feDisplacementMap in="SourceGraphic" in2="t" scale="18"/><feGaussianBlur stdDeviation="1.6"/></filter>
+<filter id="soft" x="-30%" y="-200%" width="160%" height="500%"><feGaussianBlur stdDeviation="12"/></filter>
+<radialGradient id="moon" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#fbf3dc"/><stop offset="0.8" stop-color="#efe0b8"/><stop offset="1" stop-color="#e6d3a6" stop-opacity="0"/></radialGradient>
+<linearGradient id="m1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3a3a3a" stop-opacity=".55"/><stop offset="1" stop-color="#3a3a3a" stop-opacity=".05"/></linearGradient>
+<linearGradient id="m2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1e1e1e" stop-opacity=".85"/><stop offset="1" stop-color="#1e1e1e" stop-opacity=".15"/></linearGradient>
+<linearGradient id="m0" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6b6b6b" stop-opacity=".3"/><stop offset="1" stop-color="#6b6b6b" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="440" fill="url(#paper)"/>
+<rect width="1200" height="440" filter="url(#grain)"/>
+<circle cx="930" cy="150" r="96" fill="url(#moon)"/><circle cx="930" cy="150" r="78" fill="none" stroke="#c9b27e" stroke-width="1" opacity=".5"/>
+<path d="M0 330 Q90 250 170 300 T330 270 Q420 220 520 290 T720 250 Q820 200 920 280 T1200 240 L1200 440 L0 440 Z" fill="url(#m0)" filter="url(#ink)"/>
+<path d="M560 440 L640 300 Q680 250 720 300 L770 260 Q820 210 860 270 Q900 230 950 300 L1030 250 Q1090 200 1140 290 L1200 330 L1200 440 Z" fill="url(#m1)" filter="url(#ink)"/>
+<path d="M700 440 Q760 360 820 380 Q880 320 940 370 Q1000 300 1060 360 Q1120 330 1200 380 L1200 440 Z" fill="url(#m2)" filter="url(#ink)"/>
+<path d="M0 440 Q60 390 130 405 Q190 370 260 410 L300 440 Z" fill="url(#m2)" filter="url(#ink)" opacity=".7"/>
+<ellipse cx="860" cy="372" rx="300" ry="26" fill="#f6eedb" opacity=".45" filter="url(#soft)"/>
+<ellipse cx="200" cy="410" rx="200" ry="14" fill="#f6eedb" opacity=".7" filter="url(#soft)"/>
+<g fill="none" stroke="#2a2a2a" stroke-width="2" stroke-linecap="round" opacity=".7"><path d="M760 110 q8 -7 15 0 q7 -7 15 0"/><path d="M800 132 q6 -5 11 0 q5 -5 11 0"/><path d="M735 140 q5 -4 9 0 q4 -4 9 0"/></g>
+<g transform="translate(1040 296) rotate(-18) scale(.78)" fill="#2a2a2a" opacity=".6"><path d="M0 0 C-26 -34 -52 -8 -32 12 C-20 22 -7 13 0 0 Z"/><path d="M0 0 C26 -34 52 -8 32 12 C20 22 7 13 0 0 Z"/><path d="M0 2 C-14 20 -28 30 -18 36 C-8 40 -2 24 0 2 Z" opacity=".75"/><path d="M0 2 C14 20 28 30 18 36 C8 40 2 24 0 2 Z" opacity=".75"/><path d="M-1 -12 L-1 18" stroke="#2a2a2a" stroke-width="3"/><path d="M-1 -12 q-6 -12 -12 -14 M-1 -12 q6 -12 12 -14" stroke="#2a2a2a" stroke-width="1.2" fill="none"/></g>
+<text x="90" y="200" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="120" font-weight="900" fill="#1f1a17" letter-spacing="14">周公解夢</text>
+<g transform="translate(642 118)"><rect width="62" height="62" rx="4" fill="#b3352b"/><rect x="4" y="4" width="54" height="54" rx="2" fill="none" stroke="#f6eedb" stroke-width="1.3"/><text x="44" y="27" text-anchor="middle" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="21" font-weight="900" fill="#f6eedb">解</text><text x="44" y="52" text-anchor="middle" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="21" font-weight="900" fill="#f6eedb">夢</text><text x="18" y="27" text-anchor="middle" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="21" font-weight="900" fill="#f6eedb">周</text><text x="18" y="52" text-anchor="middle" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="21" font-weight="900" fill="#f6eedb">公</text></g>
+<text x="96" y="256" font-family="Georgia,'Times New Roman',serif" font-size="36" font-style="italic" fill="#3b3128">The Duke of Zhou's Book of Dreams</text>
+<line x1="96" y1="282" x2="560" y2="282" stroke="#b3352b" stroke-width="1.5" opacity=".7"/>
+<text x="96" y="316" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="21" fill="#4a3f35">按原典解夢的 Claude 技能 · A Claude skill that reads dreams from the classics</text>
+<text x="1150" y="60" text-anchor="middle" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="22" fill="#2a2a2a" opacity=".8">夜</text>
+<text x="1150" y="94" text-anchor="middle" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="22" fill="#2a2a2a" opacity=".8">有</text>
+<text x="1150" y="128" text-anchor="middle" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="22" fill="#2a2a2a" opacity=".8">紛</text>
+<text x="1150" y="162" text-anchor="middle" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="22" fill="#2a2a2a" opacity=".8">紛</text>
+<text x="1150" y="196" text-anchor="middle" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="22" fill="#2a2a2a" opacity=".8">夢</text>
+<text x="1122" y="60" text-anchor="middle" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="22" fill="#2a2a2a" opacity=".8">神</text>
+<text x="1122" y="94" text-anchor="middle" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="22" fill="#2a2a2a" opacity=".8">魂</text>
+<text x="1122" y="128" text-anchor="middle" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="22" fill="#2a2a2a" opacity=".8">預</text>
+<text x="1122" y="162" text-anchor="middle" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="22" fill="#2a2a2a" opacity=".8">吉</text>
+<text x="1122" y="196" text-anchor="middle" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="22" fill="#2a2a2a" opacity=".8">凶</text>
+<rect x="1108" y="236" width="26" height="26" fill="#b3352b" opacity=".85"/><text x="1121" y="255" text-anchor="middle" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="16" font-weight="900" fill="#f6eedb">夢</text>
 </svg>
