@@ -35,8 +35,8 @@ zhougong-jiemeng/
 Copy the `zhougong-jiemeng/` folder into `~/.claude/skills/`.
 
 ```bash
-git clone https://github.com/kkkkkkkaro-cyber/zhougong-jiemeng.git
-cp -r zhougong-jiemeng/zhougong-jiemeng ~/.claude/skills/
+git clone https://github.com/kkkkkkkaro-cyber/-Book-of-Dreams.git
+cp -r -- -Book-of-Dreams/zhougong-jiemeng ~/.claude/skills/
 ```
 
 **Claude 应用 ｜ Claude apps**：把 `zhougong-jiemeng/` 文件夹打包成 zip，在技能设置中上传。
