@@ -25,6 +25,7 @@
 <text x="96" y="256" font-family="Georgia,'Times New Roman',serif" font-size="36" font-style="italic" fill="#3b3128">The Duke of Zhou's Book of Dreams</text>
 <line x1="96" y1="282" x2="560" y2="282" stroke="#b3352b" stroke-width="1.5" opacity=".7"/>
 <text x="96" y="316" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="21" fill="#4a3f35">按原典解夢的 Claude 技能 · A Claude skill that reads dreams from the classics</text>
+<text x="96" y="352" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="19" fill="#b3352b" letter-spacing="2">千年解夢傳統 · <tspan font-family="Georgia,'Times New Roman',serif" font-style="italic">A Thousand Years of Chinese Dream Lore</tspan></text>
 <text x="1150" y="60" text-anchor="middle" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="22" fill="#2a2a2a" opacity=".8">夜</text>
 <text x="1150" y="94" text-anchor="middle" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="22" fill="#2a2a2a" opacity=".8">有</text>
 <text x="1150" y="128" text-anchor="middle" font-family="'Noto Serif CJK TC','Noto Serif CJK SC',serif" font-size="22" fill="#2a2a2a" opacity=".8">紛</text>

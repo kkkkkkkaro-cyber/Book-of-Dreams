@@ -35,7 +35,13 @@
 
 Here's what the classics say about the dreams people ask about most. For a full reading, tell Claude your dream.
 
-<p align="center"><img src="assets/common-dreams.png" alt="常见梦速查 · Common dreams at a glance" width="100%"></p>
+<p align="center"><img src="assets/dreams/01-teeth.png" alt="掉牙 Teeth falling out" width="49%"> <img src="assets/dreams/02-snake.png" alt="蛇 Snakes" width="49%"></p>
+<p align="center"><img src="assets/dreams/03-chased.png" alt="被人追 Being chased" width="49%"> <img src="assets/dreams/04-late-relative.png" alt="去世的亲人 A late relative" width="49%"></p>
+<p align="center"><img src="assets/dreams/05-dying.png" alt="自己死了 Dying in a dream" width="49%"> <img src="assets/dreams/06-crying.png" alt="大哭 Crying hard" width="49%"></p>
+<p align="center"><img src="assets/dreams/07-water.png" alt="掉进水里 In the water" width="49%"> <img src="assets/dreams/08-flying.png" alt="会飞 Flying" width="49%"></p>
+<p align="center"><img src="assets/dreams/09-money.png" alt="捡钱 Finding money" width="49%"> <img src="assets/dreams/10-house-fire.png" alt="房子着火 House on fire" width="49%"></p>
+<p align="center"><img src="assets/dreams/11-hair.png" alt="掉头发 Hair falling out" width="49%"> <img src="assets/dreams/12-ghost.png" alt="见鬼 Ghosts" width="49%"></p>
+<p align="center"><img src="assets/dreams/13-wedding.png" alt="看见婚礼 A wedding" width="49%"> <img src="assets/dreams/14-exams-ex.png" alt="考试·前任 Exams · an ex" width="49%"></p>
 
 <details>
 <summary>📖 文字版（可复制）· Text version</summary>
