@@ -30,12 +30,61 @@ Dream interpretation means "translating" a dream. Since ancient times, Chinese p
 
 | 时代 Era | 发生了什么 What happened |
 |---|---|
-| **商朝**（约 3000 多年前）· **Shang dynasty** (over 3,000 years ago) | 商王做了梦，会让占卜师在甲骨上占问吉凶，这些记录今天还能看到。 · Shang kings had their dreams divined on oracle bones, and these records survive today. |
-| **周朝** · **Zhou dynasty** | 朝廷设有专门的"占梦"官员。《周礼》把梦分为正梦、噩梦、思梦、寤梦、喜梦、惧梦六种。 · The royal court had official dream diviners. The *Rites of Zhou* sorted dreams into six kinds, from ordinary dreams to nightmares and dreams of joy or fear. |
-| **春秋** · **Spring and Autumn period** | 孔子晚年感叹"久矣吾不复梦见周公"（《论语》），意思是好久没梦见周公了。周公从此和"梦"连在一起，后来的解梦书都托他的名字。 · In old age Confucius sighed that he had not dreamed of the Duke of Zhou for a long time (*Analects*). Ever since, the Duke has been linked with dreams, and later dream books were published under his name. |
-| **东汉** · **Eastern Han** | 王符在《潜夫论·梦列》里提出"十梦"，把梦分成十类，还说同一个梦要看做梦人的心情和处境来解。本技能收录了这篇全文。 · Wang Fu's essay "On Dreams" divided dreams into ten kinds and argued that the same dream must be read in light of the dreamer's feelings and circumstances. The full text is included here. |
-| **唐朝** · **Tang dynasty** | 敦煌出土了唐代写本《新集周公解梦书》，说明"周公解梦"这个名字一千多年前就很流行。 · A Tang-era manuscript titled *Newly Compiled Book of the Duke of Zhou's Dream Interpretations* was found at Dunhuang, showing the name was popular over a thousand years ago. |
-| **明清至今** · **Ming–Qing to today** | 民间流传一本七言条目的《周公解梦》，像一本"梦的词典"，例如「雲開日出凶事散」。本技能收录的就是这一本，约 990 条。 · A popular edition written as short seven-character entries spread widely. It works like a "dream dictionary", e.g. "Clouds part and the sun comes out: misfortunes disperse." This skill includes all of its roughly 990 entries. |
+| **商朝**（3000 多年前）· **Shang dynasty** (over 3,000 years ago) | 商人相信梦是和祖先魂灵沟通的桥梁。商王梦见祖先后，会在甲骨上占问吉凶，这是目前能看到的最早的占梦记录。 · The Shang saw dreams as a bridge to ancestral spirits. After dreaming of an ancestor, the king had the dream divined on oracle bones, the earliest dream records we have. |
+| **西周** · **Western Zhou** | 占梦被纳入国家礼制，朝廷设"占梦"官，专管《周礼》所说的"六梦"：正梦、噩梦、思梦、寤梦、喜梦、惧梦。 · Dream divination became part of state ritual. Court officials handled the "six dreams" of the *Rites of Zhou*: ordinary, frightening, longing, waking-thought, joyful and fearful dreams. |
+| **春秋** · **Spring and Autumn period** | 孔子晚年叹"久矣吾不复梦见周公"（《论语》）。周公从此和"梦"连在一起，"周公之梦"成了梦的代称，后世解梦书都托他的名字。 · In old age Confucius sighed that he no longer dreamed of the Duke of Zhou (*Analects*). The Duke became linked with dreams, and later dream books took his name. |
+| **秦** · **Qin dynasty** | 岳麓书院藏秦简里有一部体例完整的《占梦书》，梦象和占语都已固定，说明梦书开始独立成书流传。 · Qin bamboo slips held at the Yuelu Academy include a complete *Book of Dream Divination* with fixed dream images and readings, the first sign of dream books circulating on their own. |
+| **汉** · **Han dynasty** | 《汉书·艺文志》著录了《黄帝长柳占梦》等梦书。东汉王符在《潜夫论·梦列》提出"十梦"，强调同一个梦要看做梦人的心情和处境来解。本技能收录了这篇全文。 · The Han imperial bibliography lists several dream books. Wang Fu's "On Dreams" set out ten kinds of dreams and stressed reading a dream through the dreamer's feelings and situation. Its full text is included here. |
+| **隋** · **Sui dynasty** | 《隋书·经籍志》录有《解梦书》二卷，这是书名里第一次出现"解梦"二字，在此之前都叫"占梦"。 · The Sui bibliography lists a *Book of Dream Interpretation* in two scrolls, the first title to use the word *jiemeng* ("interpreting dreams") instead of *zhanmeng* ("divining dreams"). |
+| **唐、五代** · **Tang & Five Dynasties** | 敦煌出土了《周公解梦书》《新集周公解梦书》《先贤周公解梦书》等多种写本，内容各不相同，都没有署作者名。 · Dunhuang yielded several manuscripts under the Duke of Zhou's name, each with different contents and none naming an author. |
+| **宋** · **Song dynasty** | 《宋史·艺文志》第一次在正史书目里著录"《周公解梦书》三卷"，可惜已经失传。 · The Song official history is the first state bibliography to record a *Duke of Zhou's Book of Dreams* in three scrolls; that edition is now lost. |
+| **明清至今** · **Ming–Qing to today** | 各种版本渐渐统一成今天流传的七言条目本，甚至被刻在石碑上嵌在周公庙大殿外墙。明代陈士元写《梦占逸旨》，把梦分成九类。本技能收录的就是这部通行本，共 27 章、988 条。 · The many versions gradually merged into today's popular edition of seven-character entries, which was even carved in stone on the walls of a Duke of Zhou temple. The Ming scholar Chen Shiyuan's *Mengzhan Yizhi* sorted dreams into nine kinds. This skill contains the full popular edition: 27 chapters, 988 entries. |
+
+> **谁写的？什么时候写的？** · **Who wrote it, and when?** 学界公认《周公解梦》不是周公本人所写，而是后人汇集民间经验、借他的名字成书。至于具体年代，有学者（如刘文英）认为出自三国东吴，也有人根据史书著录推断是南北朝到隋唐，目前没有定论。
+> Scholars agree the book was not written by the Duke of Zhou himself; it collects folk wisdom under his name. Its date is debated: some, such as Liu Wenying, place it in the Three Kingdoms state of Wu, while others argue for the Northern and Southern dynasties through the Tang. There is no consensus.
+
+## 古人怎么"读"梦：取象比类 ｜ How the ancients read dreams: reasoning by image and analogy
+
+《周公解梦》不讲梦从哪里来，只关心梦**预示什么**。它的核心方法叫**"取象比类"**：把梦里看到的东西当成符号，按联想推出吉凶。联想主要有三个来源：
+
+The book doesn't ask where dreams come from, only **what they foretell**. Its core method is *quxiang bilei*, "taking the image and reasoning by analogy": each thing seen in a dream is treated as a symbol, and its meaning is worked out by association. Those associations come from three main places:
+
+| 来源 Source | 例子 Example |
+|---|---|
+| **常识和五行** · **Common sense and the Five Phases** | 水象征滋润，火象征温暖兴旺，太阳象征阳刚和男子，月亮象征阴柔和女子，所以有「日入懷貴子月女」。 · Water nourishes, fire brings warmth and prosperity, the sun stands for men and the moon for women, hence "The sun enters your arms: a son; the moon: a daughter." |
+| **古代的著名梦例** · **Famous dreams of the past** | 春秋时燕姞梦见兰花后生下儿子，于是"梦兰"成了怀孕的吉兆。 · A noblewoman named Yan Ji dreamed of an orchid and bore a son, so dreaming of orchids came to signal pregnancy. |
+| **谐音和拆字** · **Puns and character play** | "棺材"谐音"官"和"财"，所以原书说「棺殮死人主得財」，梦见棺材反而是吉兆。古人还会把梦拆成汉字来解，见下面"苻融解梦破案"。 · *Guancai* (coffin) sounds like *guan* (office) and *cai* (wealth), so the book says "Placing the dead in a coffin: you gain wealth." Interpreters also turned dream images into Chinese characters; see the detective story below. |
+
+除了照字面解（梦见什么应什么）和看象征，古人也会**反着解**：民间常说"梦是反的"，原书里很多吓人的梦都判为吉，比如「放聲大哭歡樂至」。
+
+Besides literal and symbolic readings, there was also **reverse reading**. "Dreams mean the opposite" is a common saying, and the book judges many frightening dreams as lucky, such as "Crying out loud: joy is coming."
+
+## 那些有名的梦 ｜ Famous dreams in Chinese history
+
+许多中文成语和故事都来自梦，至今还在日常使用：
+
+Many Chinese idioms and stories come from dreams and are still used every day:
+
+- **病入膏肓** · *bing ru gao huang*, "the illness has reached where no cure can go." 据《左传》，晋景公梦见厉鬼，又梦见病魔化作两个小孩，躲进"膏"与"肓"之间，医生说那里药力达不到，景公不久病死。今天用来形容情况已经无法挽救。
+  According to the *Zuo Zhuan*, Duke Jing of Jin dreamed that his illness, as two children, hid between his heart and diaphragm, where no medicine could reach; he soon died. The phrase now means a situation is beyond saving.
+- **黄粱一梦** · *huangliang yi meng*, "a dream while the millet cooks." 唐代小说《枕中记》里，卢生在梦中享尽一生荣华，醒来锅里的黄米饭还没煮熟。比喻荣华富贵转眼成空。
+  In the Tang story *The World Inside a Pillow*, a young man lives a whole life of glory in a dream and wakes before his millet has finished cooking. It means worldly success is fleeting.
+- **庄周梦蝶** · *Zhuangzi dreams of a butterfly.* 庄子梦见自己变成蝴蝶，醒来后不知道是自己梦见了蝴蝶，还是蝴蝶梦见了自己。《周公解梦》开篇诗就提到这个典故，本仓库封面上的蝴蝶也是取这个意思。
+  Zhuangzi dreamed he was a butterfly and woke unsure whether he had dreamed the butterfly or the butterfly was dreaming him. The book's opening poem alludes to it, and so does the butterfly on this repository's banner.
+- **苻融解梦破案** · *Fu Rong solves a murder through a dream.* 据《晋书》，有人梦见骑马过河、水里有两个太阳，官员苻融把梦拆成字："马"在左、水在旁成"冯"，两个"日"叠起来成"昌"，于是抓到了真凶冯昌。
+  According to the *Book of Jin*, a man dreamed of riding a horse through water containing two suns. The official Fu Rong read the images as characters: horse beside water makes 冯 (Feng), two suns stacked make 昌 (Chang). The real murderer turned out to be one Feng Chang.
+
+## 今天怎么看 ｜ How we see it today
+
+- **它是一本"词典"，不是一套理论。** 书里只有一条条结论，没有解释为什么；同一个梦有时既说吉又说凶。
+  **It's a dictionary, not a theory.** It lists verdicts without reasons, and the same dream is sometimes read as both lucky and unlucky.
+- **它属于它的时代。** 书里的世界是古代农业社会：官位、妻妾、奴婢、科举。一千年后同样的梦，未必还是同样的意思。
+  **It belongs to its era.** Its world is one of rural life, official rank, concubines and imperial exams; the same dream a thousand years later need not mean the same thing.
+- **心理学给了新角度。** 弗洛伊德、荣格等人认为梦大多是潜意识的表达。很多人今天读《周公解梦》，看重的不是预言，而是它带来的**心理暗示**：一个好梦让人醒来心情好，做事更有信心，好事反而更容易发生。
+  **Psychology adds a new angle.** Freud, Jung and others saw dreams mainly as expressions of the unconscious. Many readers today value the book less as prophecy than as **positive suggestion**: a good dream lifts your mood, you act with more confidence, and good things become more likely.
+
+这也是本技能的做法：**古书怎么说，原样告诉你；你心里可能在想什么，用心理学帮你想；最后由你自己判断。**
+That is how this skill works: **it tells you exactly what the classics say, helps you reflect on what the dream may mean for you psychologically, and leaves the judgement to you.**
 
 ## 中国人怎么用？为什么用？｜ How and why do Chinese people use it?
 
@@ -141,6 +190,7 @@ Zip the `zhougong-jiemeng/` folder and upload it as a custom skill.
   Via Wikisource. Attributed to the Duke of Zhou but actually a later popular compilation (generally dated Ming–Qing), **not the Tang-dynasty Dunhuang manuscript**.
 - **王符《潛夫論·夢列第二十八》** · Wang Fu, *Qianfu Lun*, ch. 28. 来源：[维基文库](https://zh.wikisource.org/wiki/潛夫論/卷七)。已校正两处繁简转换讹字。
   Via Wikisource; two character-conversion errors corrected.
+- 历史、方法与故事部分参考了[百度百科「周公解梦」](https://baike.baidu.com/item/%E5%91%A8%E5%85%AC%E8%A7%A3%E6%A2%A6/1915904)词条及其所引文献（刘玉堂、薛源，《民俗研究》2022；杨自福、顾大勇，《敦煌学辑刊》1995 等），已用自己的话重新撰写。 · The history, methods and stories draw on the Baidu Baike entry on *Zhougong Jiemeng* and the scholarship it cites, rewritten in our own words.
 - 英译均为本项目所作。 · All English translations are by this project.
 
 ## 许可 ｜ License
