@@ -18,6 +18,42 @@
 
 ---
 
+<p align="center"><img src="assets/demo.svg" alt="解梦示例 · Example reading" width="100%"></p>
+
+### 🚀 一分钟上手 ｜ Get started in one minute
+
+1. 下载 **[最新版安装包 zhougong-jiemeng.zip](https://github.com/kkkkkkkaro-cyber/Book-of-Dreams/releases/latest)**，在 Claude 的技能设置里上传。
+   Download the **[latest zhougong-jiemeng.zip](https://github.com/kkkkkkkaro-cyber/Book-of-Dreams/releases/latest)** and upload it as a skill in Claude.
+2. 直接问，比如 · Then just ask, for example:
+   - `我梦到牙齿掉了，梦里很害怕`
+   - `昨晚梦见去世的外婆给我做饭，是什么意思？`
+   - `I dreamed I was flying over the sea and felt free. What does the Duke of Zhou say?`
+
+## 常见梦速查 ｜ Common Dreams at a Glance
+
+先看看大家最常问的梦，古书是怎么说的。想要完整解读，就把你的梦告诉 Claude。
+
+Here's what the classics say about the dreams people ask about most. For a full reading, tell Claude your dream.
+
+| 梦 Dream | 原文 Original | 怎么解 Reading |
+|---|---|---|
+| 🦷 掉牙<br>Teeth falling out | 「齒自落者父母凶」<br>「齒落更生子孫興」 | 牙自己掉，古人担心长辈；掉了又长，主子孙兴旺。心理上常和焦虑、失控感有关。<br>*Teeth falling out: worry for parents; teeth regrowing: a thriving family. Often tied to anxiety or feeling out of control.* |
+| 🐍 蛇<br>Snakes | 「蛇蛟人主得大財」<br>「蛇入懷中生貴子」 | 被蛇咬反主发大财（原文“蛟”通“咬”）；蛇钻进怀里，是最经典的胎梦。<br>*A snakebite means a windfall; a snake in your arms is the classic pregnancy dream.* |
+| 🏃 被人追<br>Being chased | 原书未收<br>类推「身逃去得脫病去」 | 逃掉了，主病痛离开。现代心理学认为多半是你正在躲某件事。<br>*Not in the book; by analogy, escaping means illness leaves. Psychologically, often something you're avoiding.* |
+| 🕯 去世的亲人<br>A late relative | 「見先亡尊長大吉」<br>「死人復活主有信」 | 梦见过世的长辈是大吉；梦见亲人复活，主有消息来。也常是思念与告别。<br>*Seeing departed elders is very lucky; seeing them alive again means news is coming. Often a dream of missing them.* |
+| 💀 自己死了 / 被杀<br>Dying / being killed | 「見人死自死者吉」<br>「被人殺害者大吉」 | 典型的反梦，主吉。象征旧阶段结束、新阶段开始。<br>*Classic reversals: lucky. A symbol of one chapter ending and another beginning.* |
+| 😭 大哭<br>Crying hard | 「放聲大哭歡樂至」 | 放声大哭，反而预示欢乐要来。<br>*Crying out loud means joy is on its way.* |
+| 🌊 掉进水里<br>In the water | 「自在水中大吉利」<br>「自跌水中不出凶」 | 在水里自在是大吉，跌进去出不来才是凶。关键看你在梦里慌不慌。<br>*At ease in water: lucky; fallen in and can't get out: unlucky. How you felt decides it.* |
+| 🕊 会飞<br>Flying | 「身生羽翼飛大吉」 | 身上长翅膀飞起来，大吉。心理上对应自由和自信。<br>*Growing wings and flying: very lucky. Psychologically, freedom and confidence.* |
+| 💰 捡钱<br>Finding money | 「拾得錢物皆大吉」 | 捡到钱物，大吉。也可能反映你最近在操心收支。<br>*Finding money is very lucky, though it may also mirror money worries.* |
+| 🔥 房子着火<br>House on fire | 「火燒自屋主興旺」 | 自己家着火，主兴旺发达。<br>*Your own house burning means prosperity.* |
+| 💇 掉头发<br>Hair falling out | 「頭禿髮落皆凶事」 | 古书判凶。现代多和压力、在意外表有关，留意作息。<br>*Judged unlucky; today usually linked to stress or self-image.* |
+| 👻 见鬼<br>Ghosts | 「與鬼鬥者主延壽」 | 敢和鬼斗的人，主长寿。<br>*Fighting a ghost means a long life.* |
+| 💍 看见婚礼<br>A wedding | 「見嫁娶及孝主凶」 | 古书判凶，这是古代说法；现代更多反映关系或身份的变化。<br>*Judged unlucky in the old book; today it often reflects a change in a relationship or role.* |
+| 📝 考试 / 前任<br>Exams / an ex | 原书未收<br>Not in the book | 这是现代人的梦，古书没有。考试梦常对应“被评价”的焦虑；梦见前任多是一段还没放下的情绪。<br>*Modern dreams the classics don't cover. Exam dreams often mean fear of being judged; dreams of an ex, unfinished feelings.* |
+
+> 原文出自通行本《周公解夢》，均可在 `zhougong-jiemeng/references/zhougong-jiemeng-original.md` 中查到。 · All quotes appear in the full text in `references/`.
+
 ## 解梦是什么？｜ What is dream interpretation?
 
 解梦，就是给梦"翻译"意思。中国人自古相信梦不是随便做的：梦里出现的东西，比如蛇、水、牙齿、过世的亲人，都像一种暗号，可能在提示吉凶、预告将来，也可能反映你白天放不下的心事。解梦就是把这些暗号读出来。
