@@ -1,44 +1,98 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 660" width="1200" height="660">
-<rect width="1200" height="660" rx="18" fill="#26285a"/>
-<text x="600.0" y="46" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="28" font-weight="700" fill="#fdf3d6">解梦示例 · Example Reading</text>
-<g transform="translate(30 0)">
-<rect x="0" y="70" width="560" height="560" rx="20" fill="#ffffff" stroke="#e6def7" stroke-width="2"/>
-<text x="24" y="104" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="15" fill="#8a80a8">中文</text>
-<rect x="251.5" y="122" width="284.5" height="44" rx="22" fill="#3b2f63"/>
-<text x="393.75" y="150" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#fdf3d6">我梦到牙齿掉了，梦里很害怕 😟</text>
-<rect x="24" y="186" width="512" height="416" rx="16" fill="#f4f0fb"/>
-<text x="44" y="216" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="15.5" font-weight="700" fill="#3b2f63">🔮 一句话：提醒注意，属“想梦”</text>
-<text x="56" y="246" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="16" fill="#7a3e2e">「人有所思，即夢其到」——《夢列》</text>
-<text x="44" y="276" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="15.5" font-weight="700" fill="#3b2f63">📜 原典怎么说</text>
-<text x="56" y="306" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="16" fill="#7a3e2e">《身體面目齒髮》「齒自落者父母凶」</text>
-<text x="56" y="336" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14.5" fill="#2b2540">牙自己掉，古人认为要多关心长辈。</text>
-<text x="56" y="366" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="16" fill="#7a3e2e">「齒落更生子孫興」</text>
-<text x="56" y="396" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14.5" fill="#2b2540">掉了又长出来，就转为吉兆。</text>
-<text x="44" y="426" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="15.5" font-weight="700" fill="#3b2f63">💭 你梦里很害怕</text>
-<text x="56" y="456" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14.5" fill="#2b2540">《夢列》说梦凶而心惧，才要当真留意。</text>
-<text x="44" y="486" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="15.5" font-weight="700" fill="#3b2f63">🧠 它可能在说你什么</text>
-<text x="56" y="516" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14.5" fill="#2b2540">掉牙梦常和焦虑、失控感有关。</text>
-<text x="44" y="546" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="15.5" font-weight="700" fill="#3b2f63">🌱 小建议</text>
-<text x="56" y="576" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14.5" fill="#2b2540">给家里打个电话；见妖而戒懼，禍轉為福。</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" width="1200" height="760">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a1d42"/><stop offset="1" stop-color="#2e2556"/></linearGradient>
+<linearGradient id="pl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f7eed6"/><stop offset="0.82" stop-color="#f1e4c3"/><stop offset="1" stop-color="#d9c497"/></linearGradient>
+<linearGradient id="pr" x1="1" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#f7eed6"/><stop offset="0.82" stop-color="#f1e4c3"/><stop offset="1" stop-color="#d9c497"/></linearGradient>
+<linearGradient id="spine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="0.5" stop-color="#5a4220" stop-opacity="0.35"/><stop offset="1" stop-color="#000" stop-opacity="0"/></linearGradient>
+<radialGradient id="glow" cx="0.5" cy="0.45" r="0.6"><stop offset="0" stop-color="#fff3c9" stop-opacity="0.18"/><stop offset="1" stop-color="#fff3c9" stop-opacity="0"/></radialGradient>
+<filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#000" flood-opacity="0.45"/></filter>
+<filter id="paper"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="7" result="n"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="table" tableValues="0 0.06"/></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"/></filter>
+</defs>
+<rect width="1200" height="760" rx="18" fill="url(#bg)"/>
+<ellipse cx="600" cy="380" rx="620" ry="380" fill="url(#glow)"/>
+<circle cx="748" cy="57" r="0.6" fill="#fff" opacity="0.72"/>
+<circle cx="1185" cy="358" r="1.4" fill="#fff" opacity="0.54"/>
+<circle cx="802" cy="56" r="1.4" fill="#fff" opacity="0.60"/>
+<circle cx="365" cy="31" r="1.5" fill="#fff" opacity="0.54"/>
+<circle cx="535" cy="704" r="1.5" fill="#fff" opacity="0.35"/>
+<circle cx="1149" cy="333" r="1.2" fill="#fff" opacity="0.45"/>
+<circle cx="1021" cy="745" r="1.3" fill="#fff" opacity="0.38"/>
+<circle cx="1026" cy="726" r="1.5" fill="#fff" opacity="0.58"/>
+<circle cx="346" cy="55" r="1.5" fill="#fff" opacity="0.79"/>
+<circle cx="1040" cy="41" r="1.2" fill="#fff" opacity="0.32"/>
+<circle cx="1049" cy="738" r="1.1" fill="#fff" opacity="0.80"/>
+<circle cx="375" cy="65" r="1.2" fill="#fff" opacity="0.32"/>
+<circle cx="380" cy="721" r="1.5" fill="#fff" opacity="0.49"/>
+<g filter="url(#sh)">
+<path d="M66 96 Q330 80 600 104 Q870 80 1134 96 L1134 690 Q870 676 600 700 Q330 676 66 690 Z" fill="#3b2a52"/>
+<path d="M72 104 Q340 92 600 112 Q860 92 1128 104 L1128 684 Q860 672 600 696 Q340 672 72 684 Z" fill="#e8d9b4" stroke="#c9b48a" stroke-width="0.6"/>
+<path d="M74 104 Q340 91 600 112 Q860 91 1126 104 L1126 681 Q860 669 600 693 Q340 669 74 681 Z" fill="#e8d9b4" stroke="#c9b48a" stroke-width="0.6"/>
+<path d="M76 104 Q340 90 600 112 Q860 90 1124 104 L1124 678 Q860 666 600 690 Q340 666 76 678 Z" fill="#e8d9b4" stroke="#c9b48a" stroke-width="0.6"/>
+<path d="M78 104 Q340 89 600 112 Q860 89 1122 104 L1122 675 Q860 663 600 687 Q340 663 78 675 Z" fill="#e8d9b4" stroke="#c9b48a" stroke-width="0.6"/>
+<path d="M82 104 Q340 86 600 112 L600 684 Q340 660 82 672 Z" fill="url(#pl)"/><path d="M82 104 Q340 86 600 112 L600 684 Q340 660 82 672 Z" fill="#fff" filter="url(#paper)"/>
+<path d="M1118 104 Q860 86 600 112 L600 684 Q860 660 1118 672 Z" fill="url(#pr)"/><path d="M1118 104 Q860 86 600 112 L600 684 Q860 660 1118 672 Z" fill="#fff" filter="url(#paper)"/>
+<rect x="570" y="104" width="60" height="584" fill="url(#spine)"/></g>
+<rect x="118" y="136" width="450" height="506" fill="none" stroke="#a8432f" stroke-width="2.2" opacity=".75"/>
+<rect x="124" y="142" width="438" height="494" fill="none" stroke="#a8432f" stroke-width="0.8" opacity=".6"/>
+<rect x="632" y="136" width="450" height="506" fill="none" stroke="#a8432f" stroke-width="2.2" opacity=".75"/>
+<rect x="638" y="142" width="438" height="494" fill="none" stroke="#a8432f" stroke-width="0.8" opacity=".6"/>
+<path d="M587 96 L611 96 L611 728 L599 712 L587 728 Z" fill="#b3352b"/><path d="M587 96 L611 96 L611 138 L587 138 Z" fill="#8f2a22" opacity=".6"/>
+<text x="343" y="182" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="24" font-weight="700" fill="#3b2a52" letter-spacing="4">解梦示例</text>
+<text x="343" y="205" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="13" font-style="italic" fill="#8a6f4e">Sample Reading · 中文</text>
+<line x1="223" y1="218" x2="329" y2="218" stroke="#a8432f" stroke-width="1" opacity=".6"/><path d="M337 218 l6 -5 l6 5 l-6 5 z" fill="#a8432f" opacity=".75"/><line x1="357" y1="218" x2="463" y2="218" stroke="#a8432f" stroke-width="1" opacity=".6"/>
+<text x="343" y="250" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="16.5" font-style="italic" fill="#5b4a3a">—— 我梦到牙齿掉了，梦里很害怕 ——</text>
+<path d="M148 279 l5 -5 l5 5 l-5 5 z" fill="#a8432f"/>
+<text x="162" y="284" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="15.5" font-weight="700" fill="#3b2a52">一句话结论</text>
+<text x="162" y="306" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="14.5" fill="#3d3327">提醒注意，属《夢列》所说的“想梦”：</text>
+<text x="162" y="327" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="15.5" fill="#9b3b28">「人有所思，即夢其到」</text>
+<path d="M148 350 l5 -5 l5 5 l-5 5 z" fill="#a8432f"/>
+<text x="162" y="355" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="15.5" font-weight="700" fill="#3b2a52">原典怎么说</text>
+<text x="162" y="377" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="15.5" fill="#9b3b28">《身體面目齒髮》「齒自落者父母凶」</text>
+<text x="162" y="398" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="14.5" fill="#3d3327">牙自己掉，古人认为要多关心长辈；</text>
+<text x="162" y="419" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="15.5" fill="#9b3b28">「齒落更生子孫興」</text>
+<text x="162" y="440" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="14.5" fill="#3d3327">掉了又长出来，便转为吉兆。</text>
+<path d="M148 463 l5 -5 l5 5 l-5 5 z" fill="#a8432f"/>
+<text x="162" y="468" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="15.5" font-weight="700" fill="#3b2a52">你梦里很害怕</text>
+<text x="162" y="490" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="14.5" fill="#3d3327">《夢列》说，梦凶而心惧，才需当真留意。</text>
+<path d="M148 513 l5 -5 l5 5 l-5 5 z" fill="#a8432f"/>
+<text x="162" y="518" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="15.5" font-weight="700" fill="#3b2a52">它可能在说你什么</text>
+<text x="162" y="540" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="14.5" fill="#3d3327">掉牙梦常与焦虑、失控感有关。</text>
+<path d="M148 563 l5 -5 l5 5 l-5 5 z" fill="#a8432f"/>
+<text x="162" y="568" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="15.5" font-weight="700" fill="#3b2a52">一个小建议</text>
+<text x="162" y="590" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="14.5" fill="#3d3327">给家里打个电话。</text>
+<text x="162" y="611" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="15.5" fill="#9b3b28">「見妖而戒懼者，禍轉為福」</text>
+<text x="343" y="664" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="13" fill="#8a6f4e">· 一 ·</text>
+<text x="857" y="182" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="24" font-weight="700" fill="#3b2a52" letter-spacing="1">Sample Reading</text>
+<text x="857" y="205" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="13" font-style="italic" fill="#8a6f4e">解梦示例 · English</text>
+<line x1="737" y1="218" x2="843" y2="218" stroke="#a8432f" stroke-width="1" opacity=".6"/><path d="M851 218 l6 -5 l6 5 l-6 5 z" fill="#a8432f" opacity=".75"/><line x1="871" y1="218" x2="977" y2="218" stroke="#a8432f" stroke-width="1" opacity=".6"/>
+<text x="857" y="250" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="16.5" font-style="italic" fill="#5b4a3a">“I dreamed my teeth fell out. I was scared.”</text>
+<path d="M662 279 l5 -5 l5 5 l-5 5 z" fill="#a8432f"/>
+<text x="676" y="284" font-family="Georgia,'Times New Roman',serif" font-size="15.5" font-weight="700" fill="#3b2a52">The verdict</text>
+<text x="676" y="306" font-family="Georgia,'Times New Roman',serif" font-size="14.5" fill="#3d3327">A gentle warning; a "reflective" dream:</text>
+<text x="676" y="327" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="15.5" fill="#9b3b28">「人有所思，即夢其到」</text>
+<path d="M662 350 l5 -5 l5 5 l-5 5 z" fill="#a8432f"/>
+<text x="676" y="355" font-family="Georgia,'Times New Roman',serif" font-size="15.5" font-weight="700" fill="#3b2a52">What the classics say</text>
+<text x="676" y="377" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="15.5" fill="#9b3b28">「齒自落者父母凶」</text>
+<text x="676" y="398" font-family="Georgia,'Times New Roman',serif" font-size="14.5" fill="#3d3327">Teeth falling out: look out for your parents.</text>
+<text x="676" y="419" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="15.5" fill="#9b3b28">「齒落更生子孫興」</text>
+<text x="676" y="440" font-family="Georgia,'Times New Roman',serif" font-size="14.5" fill="#3d3327">If they grow back, the omen turns lucky.</text>
+<path d="M662 463 l5 -5 l5 5 l-5 5 z" fill="#a8432f"/>
+<text x="676" y="468" font-family="Georgia,'Times New Roman',serif" font-size="15.5" font-weight="700" fill="#3b2a52">You felt afraid</text>
+<text x="676" y="490" font-family="Georgia,'Times New Roman',serif" font-size="14.5" fill="#3d3327">Menglie: an ill dream felt with fear deserves care.</text>
+<path d="M662 513 l5 -5 l5 5 l-5 5 z" fill="#a8432f"/>
+<text x="676" y="518" font-family="Georgia,'Times New Roman',serif" font-size="15.5" font-weight="700" fill="#3b2a52">What it may be saying</text>
+<text x="676" y="540" font-family="Georgia,'Times New Roman',serif" font-size="14.5" fill="#3d3327">Tooth dreams often reflect anxiety or loss of control.</text>
+<path d="M662 563 l5 -5 l5 5 l-5 5 z" fill="#a8432f"/>
+<text x="676" y="568" font-family="Georgia,'Times New Roman',serif" font-size="15.5" font-weight="700" fill="#3b2a52">One small step</text>
+<text x="676" y="590" font-family="Georgia,'Times New Roman',serif" font-size="14.5" fill="#3d3327">Call home. Meet a bad omen with care,</text>
+<text x="676" y="611" font-family="Georgia,'Times New Roman',serif" font-size="14.5" fill="#3d3327">and misfortune turns to blessing.</text>
+<text x="857" y="664" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="13" fill="#8a6f4e">· 1 ·</text>
+<g transform="rotate(-5 1053 181)"><rect x="1024" y="152" width="58" height="58" rx="5" fill="#b3352b" opacity=".9"/><rect x="1028" y="156" width="50" height="50" rx="3" fill="none" stroke="#f7eed6" stroke-width="1.3" opacity=".8"/>
+<text x="1065" y="178" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="20" font-weight="900" fill="#f7eed6">周</text>
+<text x="1065" y="202" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="20" font-weight="900" fill="#f7eed6">公</text>
+<text x="1041" y="178" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="20" font-weight="900" fill="#f7eed6">解</text>
+<text x="1041" y="202" text-anchor="middle" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="20" font-weight="900" fill="#f7eed6">夢</text>
 </g>
-<g transform="translate(610 0)">
-<rect x="0" y="70" width="560" height="560" rx="20" fill="#ffffff" stroke="#e6def7" stroke-width="2"/>
-<text x="24" y="104" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="15" fill="#8a80a8">English</text>
-<rect x="36" y="122" width="500" height="44" rx="22" fill="#3b2f63"/>
-<text x="286.0" y="150" text-anchor="middle" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#fdf3d6">I dreamed my teeth fell out. I was scared.</text>
-<rect x="24" y="186" width="512" height="416" rx="16" fill="#f4f0fb"/>
-<text x="44" y="216" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="15.5" font-weight="700" fill="#3b2f63">🔮 Verdict: a gentle warning; a “reflective” dream</text>
-<text x="56" y="246" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="16" fill="#7a3e2e">「人有所思，即夢其到」 — Menglie</text>
-<text x="44" y="276" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="15.5" font-weight="700" fill="#3b2f63">📜 What the classics say</text>
-<text x="56" y="306" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="16" fill="#7a3e2e">「齒自落者父母凶」</text>
-<text x="56" y="336" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14.5" fill="#2b2540">Teeth falling out alone: look out for your parents.</text>
-<text x="56" y="366" font-family="'Noto Serif CJK SC','Noto Serif CJK TC','Songti SC','STSong','SimSun',serif" font-size="16" fill="#7a3e2e">「齒落更生子孫興」</text>
-<text x="56" y="396" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14.5" fill="#2b2540">If they grow back, the omen turns lucky.</text>
-<text x="44" y="426" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="15.5" font-weight="700" fill="#3b2f63">💭 You felt afraid</text>
-<text x="56" y="456" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14.5" fill="#2b2540">Menglie: an ill dream felt with fear deserves care.</text>
-<text x="44" y="486" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="15.5" font-weight="700" fill="#3b2f63">🧠 What it may be saying</text>
-<text x="56" y="516" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14.5" fill="#2b2540">Tooth dreams often reflect anxiety or loss of control.</text>
-<text x="44" y="546" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="15.5" font-weight="700" fill="#3b2f63">🌱 One small step</text>
-<text x="56" y="576" font-family="'Noto Sans CJK SC','Noto Sans CJK TC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14.5" fill="#2b2540">Call home. Meet a bad omen with care, and it turns.</text>
-</g>
+<path d="M120 52 a26 26 0 1 0 20 44 a21 21 0 1 1 -20 -44 z" fill="#fbe7a6" opacity=".9"/>
+<g fill="none" stroke="#c9b6ff" stroke-width="2.5" stroke-linecap="round" opacity=".5"><path d="M990 60 q18 -18 36 0 q18 -18 36 0 q14 -14 28 0"/><path d="M40 730 q18 -18 36 0 q18 -18 36 0"/></g>
 </svg>
